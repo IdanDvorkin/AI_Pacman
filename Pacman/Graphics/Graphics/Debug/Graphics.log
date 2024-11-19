@@ -1,0 +1,70 @@
+﻿  Cell.cpp
+  FightGhost.cpp
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(24,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(25,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Functions.cpp
+  Ghost.cpp
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(24,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(25,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.h(36,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.h(37,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.cpp(25,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.cpp(25,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.cpp(47,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.cpp(47,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  GhostHold.cpp
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(24,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(25,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.h(36,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.h(37,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  GhostLose.cpp
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(24,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(25,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.h(36,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.h(37,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  GhostsAttack.cpp
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(24,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(25,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.h(36,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.h(37,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  GhostState.cpp
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(24,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(25,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.h(36,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.h(37,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  GhostWin.cpp
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(24,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(25,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.h(36,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.h(37,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(24,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(25,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.h(36,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.h(37,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\main.cpp(84,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\main.cpp(357,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\main.cpp(332,9): warning C4101: 'j': unreferenced local variable
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\main.cpp(604,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MoveGhost.cpp
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(24,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(25,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.h(36,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Ghost.h(37,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  MovePacman.cpp
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(24,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(25,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Pacman.cpp
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(24,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(25,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  PacManLose.cpp
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(24,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(25,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  SearchGhost.cpp
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(24,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(25,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  State.cpp
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(24,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Graphics\Pacman.h(25,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Graphics.vcxproj -> E:\Graphics\PACMANV3\316129295_318468949_318774932\Graphics\Debug\Graphics.exe
